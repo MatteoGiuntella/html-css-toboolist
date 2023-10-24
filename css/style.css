@@ -9,17 +9,16 @@ Reset
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
-/* 
+header {
+    background-color: white;
+    padding: 5px 10px;
+    margin-bottom: 50px;
+}
 
-general
- 
-*/
+header h1, header img{
+    vertical-align: middle;
+}
 
- 
- 
- 
- /* 
- 
- specific 
- 
- */
+h1{
+    display: inline-block;
+}
