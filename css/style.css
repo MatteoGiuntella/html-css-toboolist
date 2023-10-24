@@ -12,7 +12,7 @@ Reset
 header {
     background-color: white;
     padding: 5px 10px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 header h1, header img{
@@ -21,4 +21,33 @@ header h1, header img{
 
 h1{
     display: inline-block;
+}
+body{
+    background-color: lightgray;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+#listacontent1{
+    background-color: white;
+    padding: 10px;
+}
+.buttonhd{
+    margin-left: 20px;
+}
+.buttonblu{
+    background-color: blue;
+    border-color: blue;
+    color: white;
+}
+.buttongray{
+    background-color: blanchedalmond;
+    border-color: blanchedalmond;
+    color: gray;
+}
+button{
+    border-radius: 30px;
+    height: 30px;
+    width: auto;
 }
